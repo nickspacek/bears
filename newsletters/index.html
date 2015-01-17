@@ -1,0 +1,16 @@
+---
+layout: base
+---
+
+<div class="container">
+	<h1>Newsletters</h1>
+	<p>Below you'll find an archive of our newsletters:</p>
+	<ol>
+		{% for newsletter in site.data.newsletters %}
+		<li>
+			<span class="newsletter-name"><a href="{{ newsletter.url }}">{{ newsletter.name }}</a></span> -
+			<span class="newsletter-date">{{ newsletter.date }}</span>
+		</li>
+		{% endfor %}
+	</ol>
+</div>

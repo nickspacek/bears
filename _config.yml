@@ -1,12 +1,12 @@
 inc:
   # Blog Information
-  title:        "New Brunswick Bear Adventures"
+  title:        "Springbrook Camp Outfitters"
   subtitle:     "Helping you experience the thrill of the hunt"
   cover_image:  blog-cover.jpg
   logo:         logo.png
   
   # Company information
-  company:      New Brunswick Bear Adventures
+  company:      Springbrook Camp Outfitters
   url:          http://nbbears.ca/
   facebook:     nbbears
   twitter:      nbbears
@@ -16,6 +16,8 @@ inc:
   # Product Information
   product_link: /guides/
   tagline:      "Find out more about booking your hunt today"
+
+  newsletter_link: /newsletters/
   
   # Comments
   disqus:
@@ -41,7 +43,7 @@ inc:
   
   # Setup your fonts, colors etc at _assets/stylesheets/main.scss
 
-url:         http://nbbears.ca
+  url:         http://springbookcamp.ca
 source:      .
 destination: ./_site
 plugins:     ./_plugins
