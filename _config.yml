@@ -7,10 +7,10 @@ inc:
   
   # Company information
   company:      Springbrook Camp Outfitters
-  url:          http://nbbears.ca/
-  facebook:     nbbears
-  twitter:      nbbears
-  gplus:        '101183822199340201470'
+  url:          http://sbcoutfitters.ca/
+  facebook:     sbcoutfitters
+  # twitter:      nbbears
+  # gplus:        '101183822199340201470'
   about_link:   /about/
   
   # Product Information
@@ -43,7 +43,7 @@ inc:
   
   # Setup your fonts, colors etc at _assets/stylesheets/main.scss
 
-  url:         http://springbookcamp.ca
+  url:         http://sbcoutfitters.ca
 source:      .
 destination: ./_site
 plugins:     ./_plugins

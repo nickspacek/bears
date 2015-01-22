@@ -69,9 +69,14 @@
         font-size:15px;
         font-weight:600;
         
-        span {
-            line-height:0;
+        .tagline-wrapper {
+			display:inline-block;
+			vertical-align:middle;
+            line-height:1;
             padding-right:20px;
+			span, small {
+				display: block;
+			}
         }
     }
 }
