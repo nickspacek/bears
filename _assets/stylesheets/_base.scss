@@ -132,7 +132,7 @@ a {
             display:inline-block;
             padding:10px 0;
             border-radius:42px;
-            margin:1.5em 1em 0em 0;
+            margin:1em 1em 1em 0;
             transition:0.2s all ease;
             line-height:0;
             text-align:center;
@@ -153,6 +153,10 @@ a {
                      background-position:0px -14px;
                  }
             }
+
+			&:last-of-type {
+				margin-right: 0;
+			}
         }
     }
     
@@ -164,8 +168,11 @@ a {
     h3 {
         font-size:1.3em;
     }
+
+	h4 {
+	}
     
-    h1, h3 {
+    h1, h3, h4 {
         color:#fff;
         margin:0;
         font-weight:600;

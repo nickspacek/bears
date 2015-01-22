@@ -2,6 +2,7 @@ inc:
   # Blog Information
   title:        "Springbrook Camp Outfitters"
   subtitle:     "Helping you experience the thrill of the hunt"
+  motto:        "No strangers ... just friends we haven't met yet!"
   cover_image:  blog-cover.jpg
   logo:         logo.png
   
@@ -14,7 +15,7 @@ inc:
   about_link:   /about/
   
   # Product Information
-  product_link: /guides/
+  product_link: /hunts/
   tagline:      "Find out more about booking your hunt today"
 
   newsletter_link: /newsletters/

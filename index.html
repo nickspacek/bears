@@ -6,7 +6,7 @@ layout: base
     <section>
         <div class="container">
             <h1>{{ site.inc.title }}</h1>
-            {% if site.inc.subtitle %}<h3>{{ site.inc.subtitle }}</h3>{% endif %}
+            <h3>{{ site.inc.subtitle }}</h3>
         
             {% if site.inc.twitter %}
             <a href="https://twitter.com/{{ site.inc.twitter }}" title="Follow on Twitter" target="_blank"><i class="icon icon-twitter"></i></a>
@@ -14,6 +14,8 @@ layout: base
             {% if site.inc.facebook %}
             <a href="http://facebook.com/{{ site.inc.facebook }}" title="Like on Facebook" target="_blank"><i class="icon icon-facebook"></i></a>
             {% endif %}
+
+			<h4>{{ site.inc.motto }}</h4>
         </div>
     </section>
 </div>
