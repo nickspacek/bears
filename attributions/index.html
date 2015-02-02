@@ -1,15 +1,15 @@
 ---
-layout: base
+layout: in-container
 ---
 
-<div class="container">
-	<h1>Attributions</h1>
-	<p>Some images on this site have been used or modified from Creative Commons licensed images as follows:</p>
-	<ul>
-		{% for attribution in site.data.attributions %}
-		<li>
-		<a href="{{ attribution.image }}">{{ attribution.image }}</a> - <a href="{{ attribution.source_url }}">{{ attribution.title }}</a> by <a href="{{ attribution.source_author.url }}">{{ attribution.source_author.name }}</a>
-		</li>
-		{% endfor %}
-	</ul>
-</div>
+<h1>Attributions</h1>
+<p>Some images on this site have been used or modified from Creative Commons licensed images as follows:</p>
+<ul>
+	{% for attribution in site.data.attributions %}
+	<li>
+		<a href="{{ attribution.image }}">{{ attribution.image }}</a> -
+		<a href="{{ attribution.source_url }}">{{ attribution.title }}</a> by
+		<a href="{{ attribution.source_author.url }}">{{ attribution.source_author.name }}</a>
+	</li>
+	{% endfor %}
+</ul>
