@@ -8,7 +8,7 @@ cover_image: blog-cover.jpg
 excerpt: "Dates, times, and more information about booking your hunt."
 
 author:
-  name: Nick Spacek
+  name: Springbrook Camp Outfitters
 ---
 
 Upcoming dates:
