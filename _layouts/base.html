@@ -27,6 +27,10 @@
     <meta name="description" content="{{ page.excerpt }}"/>
     {% endif %}
     <meta property="og:site_name" content="{{ site.inc.title }}">     
+
+	{% if site.inc.analytics.google %}
+	{% include _google-analytics.html %}
+	{% endif %}
 </head>
 <body>
     
