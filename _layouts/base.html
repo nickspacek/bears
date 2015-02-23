@@ -26,6 +26,10 @@
     <meta property="og:description" content="{{ page.excerpt }}"/>
     <meta name="description" content="{{ page.excerpt }}"/>
     {% endif %}
+    {% if page.description %}
+    <meta property="og:description" content="{{ page.description }}"/>
+    <meta name="description" content="{{ page.description }}"/>
+    {% endif %}
     <meta property="og:site_name" content="{{ site.inc.title }}">     
 
 	{% if site.inc.analytics.google %}
