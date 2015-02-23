@@ -28,3 +28,12 @@ Beyond that, we offer:
   Camp Outfitters, are sure to be a welcome beginning and end to each day.
 * Comfortable lodging in our bunkhouse style camps.
 * Leisure area to rest and relax in our newly built lodge.
+
+
+Where we are
+------------
+
+Tom & Kathy Mersereau
+80 Rankine Road
+Tracy, NB E5L 1L4
+1-506-368-2267
