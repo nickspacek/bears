@@ -1,5 +1,6 @@
 ---
 layout: in-container
+title: About
 ---
 
 Ongoing Company Legacy
@@ -34,7 +35,8 @@ Where we are
 ------------
 
 <address itemscope itemtype="http://schema.org/LocalBusiness">
-	<span itemprop="name">Tom & Kathy Mersereau</span>
+	<span>Tom & Kathy Mersereau</span><br />
+	<span itemprop="name">Springbrook Camp Outfitters</span>
 	<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
 		<span itemprop="streetAddress">80 Rankine Road</span><br />
 		<span itemprop="addressLocality">Tracy</span>, <span itemprop="addressRegion">NB</span> <span itemprop="postalCode">E5L 1L4</span><br />

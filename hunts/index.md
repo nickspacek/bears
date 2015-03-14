@@ -1,5 +1,6 @@
 ---
 layout: in-container
+title: Hunts
 ---
 
 Information about Hunts
