@@ -33,7 +33,11 @@ Beyond that, we offer:
 Where we are
 ------------
 
-Tom & Kathy Mersereau
-80 Rankine Road
-Tracy, NB E5L 1L4
-1-506-368-2267
+<address itemscope itemtype="http://schema.org/LocalBusiness">
+	<span itemprop="name">Tom & Kathy Mersereau</span>
+	<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+		<span itemprop="streetAddress">80 Rankine Road</span><br />
+		<span itemprop="addressLocality">Tracy</span>, <span itemprop="addressRegion">NB</span> <span itemprop="postalCode">E5L 1L4</span><br />
+		<span itemprop="telephone">1-506-368-2267</span>
+	</div>
+</address>
