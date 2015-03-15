@@ -11,7 +11,12 @@ body {
 
 .business-info {
 	text-align: center;
-	font-weight: bold;
+	address {
+		text-align: center;
+	}
+	p {
+		font-weight: bold;
+	}
 }
 
 .is-visible {

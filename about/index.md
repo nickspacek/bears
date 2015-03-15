@@ -30,16 +30,12 @@ Beyond that, we offer:
 * Comfortable lodging in our bunkhouse style camps.
 * Leisure area to rest and relax in our newly built lodge.
 
+Springbrook Camp Outfitters is also recognized by the [New Brunswick Department
+of Tourism](http://www.tourismnewbrunswick.ca) as specializing in outfitting
+for black bear hunting; [visit our entry in their directory by clicking here](http://www.tourismnewbrunswick.ca/fishandhunt/hunting-fishing-guides/Outfitter-Detail.aspx?o=E6024070-7311-4902-ADAF-B7246CA6CA15).
+
 
 Where we are
 ------------
 
-<address itemscope itemtype="http://schema.org/LocalBusiness">
-	<span>Tom & Kathy Mersereau</span><br />
-	<span itemprop="name">Springbrook Camp Outfitters</span>
-	<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-		<span itemprop="streetAddress">80 Rankine Road</span><br />
-		<span itemprop="addressLocality">Tracy</span>, <span itemprop="addressRegion">NB</span> <span itemprop="postalCode">E5L 1L4</span><br />
-		<span itemprop="telephone">1-506-368-2267</span>
-	</div>
-</address>
+{% include address.html %}
